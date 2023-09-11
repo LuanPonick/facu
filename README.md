@@ -35,3 +35,7 @@ nome completo, senha,endereço,telefone
 valor total do pagamente forma de pagamento,
 
 cadastrar o uber e cadastrar o cliente.
+
+tem que ter interface grafica
+
+# lixo do uber nao precisa
