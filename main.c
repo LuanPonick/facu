@@ -17,4 +17,5 @@ void pedirNome(){
     char teste[5];
     fgets(teste, sizeof(teste), stdin); 
     printf(teste);
+    printf("legas")
 }
